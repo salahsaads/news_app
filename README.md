@@ -1,7 +1,7 @@
 # news_app
 
 A new Flutter project.
-
+Review the application>>>   https://shorturl.at/bR6TK
 ## Getting Started
 
 This project is a starting point for a Flutter application.
